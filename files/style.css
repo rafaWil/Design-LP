@@ -1,5 +1,11 @@
+/* Redefined in BODY page */
 body {
     margin: 0;
     padding: 0;
 }
 
+/* Style in HEADER */
+header {
+    height: 100px;
+    background-color: #000;
+}
