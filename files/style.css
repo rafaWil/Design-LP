@@ -18,3 +18,10 @@ header {
     margin: auto;
     display: flex;
 }
+
+/* LOGO IMG */
+.logoimg {
+    width: 80px;
+    height: 80px;
+    background-color: #b28756;
+}
