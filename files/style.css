@@ -5,6 +5,12 @@
     box-sizing: border-box;
 }
 
+/* BODY style part */
+body {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
 /* Style in HEADER */
 header {
     height: 100px;
@@ -52,7 +58,7 @@ header {
 .menu li a {
     color: #fff;
     text-transform: uppercase;
-    font-weight: bold;
+    font-weight: 600;
     text-decoration: none;
     display: flex;
     padding-left: 5px;
