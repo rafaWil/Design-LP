@@ -71,3 +71,8 @@ header {
 .menu li a:hover {
     border-bottom: 5px solid #b28756;
 }
+
+/* ACTIVE */
+.menu .active a {
+    border-bottom: 5px solid #b28756;
+}
