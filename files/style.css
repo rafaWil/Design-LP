@@ -73,3 +73,10 @@ header {
     border-bottom: 5px solid #b28756;
     color: #ccc;
 }
+
+
+/* First style in SECTION with class name BANNER */
+.banner {
+    height: calc(100vh - 100px);
+    background-color: red;
+}
