@@ -79,5 +79,5 @@ header {
 .banner {
     height: calc(100vh - 100px);
     background-color: #333;
-    background-image: url('../._bg.jpg');
+    background-image: url('../images/images-icons/complementos/bg.jpg');
 }
