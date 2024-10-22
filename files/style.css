@@ -104,3 +104,14 @@ header {
     justify-content: center;
     color: #fff;
 }
+
+/* Style in TEXT Design*/
+.banner h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.banner h1 span {
+    color: #b28756;
+}
