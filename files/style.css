@@ -116,3 +116,8 @@ header {
 .banner h1 span {
     color: #b28756;
 }
+
+.banner h2 {
+    text-transform: uppercase;
+    margin-top: 20px;
+}
