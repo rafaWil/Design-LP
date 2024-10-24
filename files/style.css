@@ -203,3 +203,12 @@ header {
 .default.light .section-title {
     color: #000;
 }
+
+/* Style with include in class DARK */
+.default.dark {
+    background-color: #000;
+}
+
+.default.dark .section-title {
+    color: #fff;
+}
