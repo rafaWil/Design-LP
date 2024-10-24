@@ -9,6 +9,7 @@
 body {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     font-size: 13px;
+    overflow-x: hidden;
 }
 
 /* Style in HEADER */
@@ -161,4 +162,11 @@ header {
 /* Activer POINTER */
 .banner .pointer.active {
     background-color: #b28756;
+}
+
+/* Second Section about DEFAULT */
+.default {
+    background-color: red;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
