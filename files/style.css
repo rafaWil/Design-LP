@@ -194,3 +194,12 @@ header {
     max-width: 1140px;
     margin: auto;
 }
+
+/* Style with include in class "LIGHT" */
+.default.light {
+    background-color: #f7f7f7;
+}
+
+.default.light .section-title {
+    color: #000;
+}
