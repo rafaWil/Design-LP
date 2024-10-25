@@ -252,6 +252,11 @@ header {
     flex: 1;
 }
 
+.section-about-us--left p {
+    font-size: 14px;
+    line-height: 25px;
+}
+
 .section-about-us--right {
     width: 520px;
     text-align: center;
