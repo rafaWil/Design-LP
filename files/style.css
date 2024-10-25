@@ -206,7 +206,8 @@ header {
     background-color: #f7f7f7;
 }
 
-.default.light .section-title {
+.default.light .section-title,
+.default.light .section-body {
     color: #000;
 }
 
@@ -215,7 +216,8 @@ header {
     background-color: #000;
 }
 
-.default.dark .section-title {
+.default.dark .section-title,
+.default.dark .section-body {
     color: #fff;
 }
 
