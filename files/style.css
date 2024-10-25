@@ -239,6 +239,12 @@ header {
 }
 
 .section-about-us--right {
-    width: 300px;
-    background-color: red;
+    width: 500px;
+    text-align: center;
+}
+
+/* IMAGE */
+.section-about-us--right img {
+    width: 480px;
+    box-shadow: 0px 5px 10px #333;
 }
