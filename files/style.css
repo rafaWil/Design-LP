@@ -228,3 +228,17 @@ header {
 
 
 /* CSS of the areas especifics */
+
+/* Style in ABOUT US part in page */
+.section-about-us {
+    display: flex;
+}
+
+.section-about-us--left {
+    flex: 1;
+}
+
+.section-about-us--right {
+    width: 300px;
+    background-color: red;
+}
