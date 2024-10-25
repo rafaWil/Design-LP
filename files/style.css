@@ -82,6 +82,19 @@ header {
     color: #ccc;
 }
 
+.button {
+    display: inline-block;
+    background-color: #b28756;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-top: 30px;
+    border-radius: 20px
+}
+
 
 /* First style in SECTION with class name BANNER */
 .banner {
@@ -227,6 +240,7 @@ header {
 
 
 
+
 /* CSS of the areas especifics */
 
 /* Style in ABOUT US part in page */
@@ -239,7 +253,7 @@ header {
 }
 
 .section-about-us--right {
-    width: 500px;
+    width: 520px;
     text-align: center;
 }
 
