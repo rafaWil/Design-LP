@@ -267,3 +267,13 @@ header {
     width: 480px;
     box-shadow: 0px 5px 10px #333;
 }
+
+/* SECTION SERVICES */
+.section-services {
+    display: flex;
+}
+
+.section-service {
+    flex: 1;
+    text-align: center;     
+}
