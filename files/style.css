@@ -358,3 +358,24 @@ header {
 .section-projects-photo {
     width: 280px;
 }
+
+.section-projects--photoarea {
+    margin: 10px;
+    width: 260px;
+    height: 160px;
+}
+
+.section-projects--photoarea img {
+    width: inherit;
+    height: inherit;
+}
+
+.section-projects--photoinfo {
+    position: absolute;
+    background-color: rgb(0, 0, 0, 0.5);
+    width: inherit;
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
