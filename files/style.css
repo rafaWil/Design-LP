@@ -375,7 +375,18 @@ header {
     background-color: rgb(0, 0, 0, 0.5);
     width: inherit;
     height: inherit;
-    display: flex;
+    display: none;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: #fff;
+}
+
+.section-projects--photoinfo h5 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.section-projects--photoarea:hover .section-projects--photoinfo {
+    display: flex;
 }
