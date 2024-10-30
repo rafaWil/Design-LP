@@ -390,3 +390,15 @@ header {
 .section-projects--photoarea:hover .section-projects--photoinfo {
     display: flex;
 }
+
+
+
+
+
+/* SECTION OUR TEAM */
+
+.bg-team {
+    background-image: url(../images/images-icons/complementos/bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
