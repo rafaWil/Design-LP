@@ -498,3 +498,309 @@ header {
 .section-team--social a:hover {
     background-color: #b28756;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section-review {
+    text-align: center;
+}
+
+.review-area--name {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+.client-area--job {
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-top: 6px;
+    margin-bottom: 30px;
+}
+
+.client-area--depoiment {
+    font-size: 1em;
+    line-height: 30px;
+    color: var(--cor00);
+    width: 900px;
+    margin: auto;
+    padding-top: 15px;
+}
+
+.section-awards {
+    height: auto;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+
+.section-awards--container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-awards--frame {
+    padding: 40px;
+}
+
+.default.white.price {
+    border-bottom: 1px solid lightgrey;
+}
+
+.section-price--container {
+    display: flex;
+    column-gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-price--product {
+    background-color: white;
+    text-align: center;
+    min-height: 300px;
+    min-width: 250px;
+    padding: 25px;
+    border-radius: 3px;
+}
+
+.section-price--name {
+    font-size: 0.9em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.section-price--value {
+    font-size: 2em;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.section-price--month {
+    color: var(--cor00);
+    text-transform: uppercase;
+    font-size: 0.7em;
+}
+
+.section-price--info {
+    font-size: 12px;
+    font-weight: 400;
+    padding: 10px;
+}
+
+.bar {
+    margin: auto;
+    height: 0.1px;
+    width: 10px;
+    background-color: var(--cor00)
+}
+
+.button.dark {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.button.active, .button.dark:hover {
+    background-color: var(--cor01);
+}
+
+.section-premium--container {
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+    padding: 30px 0px;
+    border-bottom: 1px solid var(--cor00);
+}
+
+.features-container {
+    display: flex;
+    column-gap: 30px;
+}
+
+.features-container h3 {
+    font-size: 1.4em;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.section-premium--description {
+    font-size: 0.9em;
+    color: var(--cor00);
+    line-height: 25px;
+    margin-left: 64px;
+}
+
+.description {
+    align-items: center;
+    column-gap: 5px;
+    margin-top: 10px;
+    margin-left: 64px;
+}
+
+.description p {
+    text-transform: uppercase;
+    font-weight: 500;
+    color: var(--cor00);
+}
+
+.bar-2 {
+    height: 0.1px;
+    width: 10px;
+    background-color: var(--cor00)
+}
+
+.section-premium--second, .section-premium--third {
+    margin-top: 30px;
+}
+
+.section-body--button{
+    text-align: center;
+}
+
+.facts {
+    border: none;
+}
+
+.facts h2 {
+    font-size: 3em;
+    color: var(--cor01);
+}
+
+.facts .bar {
+    width: 20px;
+    height: 3px;
+}
+
+.facts h3 {
+    margin-top: 10px;
+}
+
+.section-service--info {
+    margin-top: 22px;
+}
+
+.section-tellaboutus--container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 30px;
+    max-width: 1140px;
+    padding: 20px;
+    margin: auto;
+}
+
+.section-tellaboutus--share {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+    text-transform: uppercase;
+    color: var(--cor00);
+}
+
+.section-tellaboutus--containersocial {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.section-tellaboutus--social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-tellaboutus--social a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    border-radius: 30px;
+}
+
+.section-tellaboutus--social.t a {
+    background-color: rgb(0, 172, 237);
+}
+.section-tellaboutus--social.l a {
+    background-color: rgb(10, 102, 194);
+}
+.section-tellaboutus--social.f a {
+    background-color: rgb(51, 82, 145);
+}
+.section-tellaboutus--social.g a {
+    background-color: rgb(213, 76, 63);
+}
+.section-tellaboutus--social.p a {
+    background-color: rgb(198, 32, 38);
+}
+
+.section-tellaboutus--social p {
+    font-size: 0.6em;
+    font-weight: 600;
+    color: var(--cor00);
+    padding-left: 5px;
+}
+
+.contact {
+    border-top: 1px solid var(--cor00);
+}
+
+.section-body--contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+form input, form textarea {
+    outline: none;
+    font-size: 15px;
+    border: none;
+    padding-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-bottom: 2px solid var(--cor00);
+    background-color: #ccc;
+}
+
+.section-body--input-1 input:first-child{
+    margin-right: 30px;
+}
+
+.section-body--input-1 input {
+    width: 260px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.section-body--input-2 input, .section-body--input-3 input, .section-body--input-3 textarea {
+    width: 100%;
+}
+
+.section-body--input-3 textarea {
+    margin-top: 30px;
+    resize: none;
+}
+
+.button.input {
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    transition: all 1.2s;
+}
+
+.button.input:hover {
+    background-color: #c96c02;
+    transition: all 1.2s;
+}
