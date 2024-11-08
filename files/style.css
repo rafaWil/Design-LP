@@ -507,9 +507,7 @@ header {
 
 
 
-
-
-
+/* OTHERS CARDS AND FIELDS IN PAGE*/
 
 
 .section-review {
@@ -763,6 +761,7 @@ header {
     text-align: center;
 }
 
+/* SECTION ABOUT FORM */
 form input, form textarea {
     outline: none;
     font-size: 15px;
@@ -793,6 +792,7 @@ form input, form textarea {
     resize: none;
 }
 
+/* BUTTON FOR SEND IN FORM */
 .button.input {
     text-align: center;
     border: none;
