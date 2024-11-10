@@ -857,25 +857,3 @@ form input, form textarea {
 
 
 /* RODAPE */
-.section-rodape {
-    width: 100vw;
-    max-width: 1140px;
-    margin: auto;
-    color: #999;
-}
-
-.section-rodape--area {
-    width: 100vw;
-    max-width: 1140px;
-    margin: auto;
-    background-color: #000;
-    display: flex;
-}
-
-.rodape-social-medias {
-    background-color: red;
-}
-
-.rodape-text p {
-    background-color: blue;
-}
