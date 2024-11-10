@@ -835,10 +835,18 @@ form input, form textarea {
     display: flex;
 }
 
-.section-map--info-item img {
+.section-map--info-item-img {
     width: 30px;
-    height: auto;
-    display: inline-block;
+    height: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
     padding: 5px;
+    border-radius: 15px;
     background-color: #ccc;
+}
+
+.section-map--info-item-img img {
+    width: 20px;
+    height: auto;
 }
