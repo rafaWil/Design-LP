@@ -854,3 +854,17 @@ form input, form textarea {
     width: 15px;
     height: auto;
 }
+
+
+/* RODAPE */
+.section-rodape {
+    color: #999;
+}
+
+.section-rodape--area {
+    width: 100vw;
+    max-width: 1140px;
+    margin: auto;
+    background-color: #000;
+    display: flex;
+}
