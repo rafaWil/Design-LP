@@ -947,6 +947,13 @@ form input, form textarea {
 /* responsiveness */
 
 @media (min-width:450px) and (max-width:800px) {
+    
+    /* MENU OPENER */
+    .menu-opener {
+       width: 45px;
+       margin-right: 30px; 
+    }
+    
     /* In NAV */
     nav {
         position: absolute;
@@ -958,10 +965,12 @@ form input, form textarea {
         right: 0;
     }
 
+    /* UL */
     .menu ul {
         flex-direction: column;
     }
 
+    /* LINK TOPICS */
     .menu li a {
         font-weight: bold;
         height: 80px;
