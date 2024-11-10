@@ -952,6 +952,11 @@ form input, form textarea {
 
 @media (min-width:450px) and (max-width:800px) {
     
+    /* LOGO */
+    .logo {
+        margin-left: 30px;
+    }
+
     /* MENU OPENER */
     .menu-opener {
        display: block;
