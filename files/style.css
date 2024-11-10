@@ -832,5 +832,13 @@ form input, form textarea {
 }
 
 .section-map--info-item {
-    
+    display: flex;
+}
+
+.section-map--info-item img {
+    width: 30px;
+    height: auto;
+    display: inline-block;
+    padding: 5px;
+    background-color: #ccc;
 }
