@@ -813,6 +813,8 @@ form input, form textarea {
     background-image: url(../images/images-icons/complementos/mapa.jpg);
     background-size: cover;
     background-position: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 
