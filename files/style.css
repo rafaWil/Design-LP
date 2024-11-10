@@ -834,6 +834,7 @@ form input, form textarea {
 .section-map--info-item {
     display: flex;
     align-items: center;
+    margin-bottom: 10px;
     color: #999;
 }
 
