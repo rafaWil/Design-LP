@@ -810,10 +810,12 @@ form input, form textarea {
 
 /* MAP AREA */
 .section-map {
-
+    background-image: url(../images/images-icons/complementos/mapa.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 
 .section-map--area {
-    
+
 }
