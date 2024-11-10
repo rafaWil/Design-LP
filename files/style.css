@@ -833,6 +833,8 @@ form input, form textarea {
 
 .section-map--info-item {
     display: flex;
+    align-items: center;
+    color: #999;
 }
 
 .section-map--info-item-img {
@@ -843,7 +845,8 @@ form input, form textarea {
     align-items: center;
     padding: 5px;
     border-radius: 15px;
-    background-color: #ccc;
+    margin-right: 15px;
+    background-color: #999;
 }
 
 .section-map--info-item-img img {
