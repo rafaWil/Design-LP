@@ -821,4 +821,12 @@ form input, form textarea {
 .section-map--area {
     width: 100vw;
     max-width: 1140px;
+    margin: auto;
+}
+
+.section-map--info {
+    width: 50%;
+    padding: 30px;
+    background-color: #fff;
+    color: #000;
 }
