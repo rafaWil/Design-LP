@@ -956,6 +956,7 @@ form input, form textarea {
     
     /* In NAV */
     nav {
+        display: none;
         position: absolute;
         z-index: 99;
         background-color: rgba(0, 0, 0, 0.9);
