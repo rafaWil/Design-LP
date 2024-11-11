@@ -994,4 +994,19 @@ form input, form textarea {
         border: 0;
         color: #b28756;
     }
+
+    /* ABOUT US */
+    .section-about-us {
+        flex-direction: column;
+    }
+
+    .section-about-us--left {
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-bottom: 30px;
+    }
+
+    .section-about-us--right {
+        width: auto;
+    }
 }
