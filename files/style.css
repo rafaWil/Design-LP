@@ -1013,6 +1013,7 @@ form input, form textarea {
     /* SERVICES */
     .section-services {
         flex-wrap: wrap;
+        margin-top: 30px;
     }
 
     .section-service {
@@ -1027,5 +1028,27 @@ form input, form textarea {
     /* OUR TEAM */
     .section-team {
         max-width: 580px;
+    }
+
+    /* MAP */
+    .section-map {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .section-map--area {
+        width: auto;
+    }
+
+    .section-map--info {
+        width: auto;
+    }
+
+    .section-map--info-item {
+        margin-bottom: 20px;
+    }
+
+    .section-map--info-item:last-child {
+        margin-bottom: 0;
     }
 }
