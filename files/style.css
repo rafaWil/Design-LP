@@ -1023,4 +1023,9 @@ form input, form textarea {
     .section-service:first-child {
         border-left: 0;
     }
+
+    /* OUR TEAM */
+    .section-team {
+        max-width: 580px;
+    }
 }
