@@ -1009,4 +1009,18 @@ form input, form textarea {
     .section-about-us--right {
         width: auto;
     }
+
+    /* SERVICES */
+    .section-services {
+        flex-wrap: wrap;
+    }
+
+    .section-service {
+        min-width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .section-service:first-child {
+        border-left: 0;
+    }
 }
